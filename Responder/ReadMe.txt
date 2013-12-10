@@ -1,6 +1,6 @@
 ReadMe.txt
 Project Title: Responder
-By: Emmanuel Godinez
+By: Emmanuel Godinez and Will Hardwick-Smith
 
 Brief:
 Small artificial intelligence project. The aim is to have
@@ -20,3 +20,4 @@ Is approximated to be 150Mb in space, however, this can be altered
 as the user intends. (by adding/removing words)
 
 more info to be added...
+
