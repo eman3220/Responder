@@ -19,3 +19,4 @@ user by adding/removing words.
 Is approximated to be 150Mb in space, however, this can be altered
 as the user intends. (by adding/removing words)
 
+more info to be added...
