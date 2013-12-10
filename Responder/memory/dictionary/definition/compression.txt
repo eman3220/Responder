@@ -1,0 +1,5 @@
+the act of compressing.
+the state of being compressed.
+the effect, result, or consequence of being compressed.
+(in internal-combustion engines) the reduction in volume and increase of pressure of the air or combustible mixture in the cylinder prior to ignition, produced by the motion of the piston toward the cylinder head after intake.
+Also called data compression. reduction of the storage space required for data by changing its format
